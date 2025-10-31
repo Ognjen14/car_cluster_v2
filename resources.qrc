@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/fuelIconOff.png</file>
+        <file>icons/fuelIconOn.png</file>
+        <file>icons/albums/appetite.jpg</file>
+        <file>icons/background.jpg</file>
+        <file>icons/caller.png</file>
+        <file>icons/motorTemp.png</file>
+        <file>icons/fuel_left.png</file>
+        <file>icons/avg_speed.png</file>
+        <file>icons/fuel_cons.png</file>
+        <file>icons/left_arrow.png</file>
+        <file>icons/right_arrow.png</file>
+        <file>icons/handbrake.png</file>
+        <file>icons/carEngine.png</file>
+        <file>icons/carOil.png</file>
+        <file>icons/abs.png</file>
+        <file>fonts/ProtestGuerrilla-Regular.ttf</file>
+    </qresource>
+</RCC>
